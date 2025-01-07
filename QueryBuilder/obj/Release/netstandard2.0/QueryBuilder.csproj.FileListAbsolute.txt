@@ -1,0 +1,12 @@
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\bin\Release\netstandard2.0\SqlKata.xml
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\bin\Release\netstandard2.0\SqlKata.deps.json
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\bin\Release\netstandard2.0\SqlKata.dll
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\bin\Release\netstandard2.0\SqlKata.pdb
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.csproj.AssemblyReference.cache
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.AssemblyInfoInputs.cache
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.AssemblyInfo.cs
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\QueryBuilder.sourcelink.json
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\SqlKata.dll
+C:\Users\JGiancaspro\Documents\GitHub\querybuilder\QueryBuilder\obj\Release\netstandard2.0\SqlKata.pdb

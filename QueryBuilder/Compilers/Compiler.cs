@@ -8,7 +8,7 @@ namespace SqlKata.Compilers
     public partial class Compiler
     {
         private readonly ConditionsCompilerProvider _compileConditionMethodsProvider;
-        protected virtual string parameterPlaceholder { get; set; } = "?";
+        protected virtual string parameterPlaceholder { get; set; } = "@?";
         protected virtual string parameterPrefix { get; set; } = "@p";
         protected virtual string OpeningIdentifier { get; set; } = "\"";
         protected virtual string ClosingIdentifier { get; set; } = "\"";
@@ -583,7 +583,7 @@ namespace SqlKata.Compilers
             if (cte is RawFromClause raw)
             {
                 ctx.Bindings.AddRange(raw.Bindings);
-                ctx.RawSql = $"{WrapValue(raw.Alias)} AS ({WrapIdentifiers(raw.Expression)})";
+                ctx.RawSql = $"{WrapValue(raw.Alias)} AS ({raw.Expression})";
             }
             else if (cte is QueryFromClause queryFromClause)
             {
